@@ -1,5 +1,4 @@
-# 🤖 Enterprise RAG Chatbot (Elementra UI)
-
+# 🤖 Enterprise RAG Chatbot 
 An end-to-end, cost-effective Retrieval-Augmented Generation (RAG) AI Chatbot. This project ingests complete websites, vectorizes the knowledge, and serves a beautifully designed, modern UI to answer user queries with high accuracy. 
 
 Built specifically to utilize high-performance, free-tier developer tools like **Groq (Llama 3)** and **FireCrawl**, ensuring a zero-to-low cost deployment architecture while maintaining enterprise-grade accuracy.
